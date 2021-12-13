@@ -1,0 +1,9 @@
+
+to run the server type :
+npm run server
+
+aftert running the server 
+npm serve
+
+
+//https://www.youtube.com/watch?v=3dHNOWTI7H8&t=207s
